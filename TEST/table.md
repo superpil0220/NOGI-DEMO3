@@ -1,1 +1,3 @@
-<table style='width:100%; border-collapse: separate; border-spacing: 0; border: 1px solid #E0E0E0; border-radius: 3px; table-layout: fixed'><tr style='background-color: #404040; font-weight: bold; border-bottom: 1px solid #E0E0E0;'><td style='padding: 8px 12px; text-align: left; border-right: 1px solid #E0E0E0;'>1</td><td style='padding: 8px 12px; text-align: left; border-right: 1px solid #E0E0E0;'>https://naver.com</td><td style='padding: 8px 12px; text-align: left; border-right: 1px solid #E0E0E0;'>https://naver.com</td></tr></table>
+| #  | URL1              | URL2              |
+|----|-------------------|-------------------|
+| 1  | [naver](https://naver.com) | [naver](https://naver.com) |
