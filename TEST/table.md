@@ -1,3 +1,4 @@
-| #  | URL1              | URL2              |
-|----|-------------------|-------------------|
-| 1  | [naver](https://naver.com) | [naver](https://naver.com) |
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
