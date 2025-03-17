@@ -1,17 +1,1 @@
-<table border="1">
-  <tr>
-    <th>이름</th>
-    <th>나이</th>
-    <th>직업</th>
-  </tr>
-  <tr>
-    <th>홍길동</td>
-    <td>30</td>
-    <td>개발자</td>
-  </tr>
-  <tr>
-    <th>김철수</td>
-    <td>25</td>
-    <td>디자이너</td>
-  </tr>
-</table>
+<table style='width:100%; border-collapse: separate; border-spacing: 0; border: 1px solid #E0E0E0; border-radius: 3px; table-layout: fixed'><tr style='background-color: #404040; font-weight: bold; border-bottom: 1px solid #E0E0E0;'><td style='padding: 8px 12px; text-align: left; border-right: 1px solid #E0E0E0;'>1</td><td style='padding: 8px 12px; text-align: left; border-right: 1px solid #E0E0E0;'>https://naver.com</td><td style='padding: 8px 12px; text-align: left; border-right: 1px solid #E0E0E0;'>https://naver.com</td></tr></table>
